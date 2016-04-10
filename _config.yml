@@ -1,0 +1,28 @@
+name: T-80-T
+favicon: null
+layout_spectrum: 0.13367996411398053
+typography_spectrum: 0.17141097877174616
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.41443892754614353
+  lightness: 0.1968099381774664
+  saturation: 0.5597559979651123
+  rhythmicContrast: 0.40827778563834727
+purpose: []
