@@ -1,28 +1,40 @@
-name: T-80-T
-favicon: null
-layout_spectrum: 0.13367996411398053
-typography_spectrum: 0.17141097877174616
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.469534
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5597559979651123
+  brandStrength: 0.4144389275461435
+  rhythmicContrast: 0.4082777856383473
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.41443892754614353
   lightness: 0.1968099381774664
-  saturation: 0.5597559979651123
-  rhythmicContrast: 0.40827778563834727
-purpose: []
+typography_spectrum: 0.4390681
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: T-80-T
