@@ -1,4 +1,5 @@
-layout_spectrum: 0.469534
+favicon: null
+name: T-80-T
 opengraph:
   image: null
   type: null
@@ -28,13 +29,12 @@ color:
     - '#A2E3C4'
   lightness: 0.1968099381774664
 typography_spectrum: 0.4390681
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.6666667
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: T-80-T
+cta:
+  bucket: null
+  version: null
+  domain: null
